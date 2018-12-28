@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tsukammod",
+  "name": "TsukamMod",
+  "description": "I'm not a PRO.",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
+  "url": "twitter.com/fal_rnd",
+  "updateUrl": "",
+  "authorList": ["fal_rnd"],
+  "credits": "fal_rnd",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

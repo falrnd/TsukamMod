@@ -1,0 +1,16 @@
+{
+	"type": "forge:ore_shaped",
+	"group": "tsukammod:compress_tsukammo",
+	"pattern": [
+		"###",
+		"###",
+		"###"
+	],
+	"key": {
+		"#": { "item": "tsukammod:tsukammo" }
+	},
+	"result": {
+		"item": "tsukammod:tsukammo_block",
+		"count": 1
+	}
+}

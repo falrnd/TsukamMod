@@ -1,0 +1,5 @@
+
+tile.TsukamMod.Tsukammo(Plant).name=Tsukammo(Plant)
+tile.TsukamMod.TsukammoBlock.name=TsukammoBlock
+
+entity.Villager.tsukammo_san=Tsukammo-san

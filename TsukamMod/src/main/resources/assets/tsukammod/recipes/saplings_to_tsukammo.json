@@ -1,0 +1,16 @@
+{
+	"type": "forge:ore_shaped",
+	"group": "tsukammod:saplings_to_tsukammo",
+	"pattern": [
+		"# #",
+		" # ",
+		" # "
+	],
+	"key": {
+		"#": {"type": "forge:ore_dict", "ore": "treeSapling"}
+	},
+	"result": {
+		"item": "tsukammod:tsukammo",
+		"count": 1
+	}
+}
