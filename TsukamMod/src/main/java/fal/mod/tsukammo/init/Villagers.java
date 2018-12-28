@@ -1,4 +1,4 @@
-package fal.mod.tsukamo.init;
+package fal.mod.tsukammo.init;
 
 import java.util.Random;
 import fal.mod.tsukammo.TsukamMod;
